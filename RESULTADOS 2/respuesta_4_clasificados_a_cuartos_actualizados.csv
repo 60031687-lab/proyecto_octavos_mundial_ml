@@ -1,0 +1,9 @@
+numero_partido,partido,marcador_final,origen_resultado,clasificado_cuartos,criterio_clasificacion,confianza_modelo
+89,Canada vs Morocco,Canada 0 - 3 Morocco,Resultado real del CSV,Morocco,Resultado real: gana en tiempo reglamentario,
+90,Paraguay vs France,Paraguay 0 - 1 France,Resultado real del CSV,France,Resultado real: gana en tiempo reglamentario,
+91,Brazil vs Norway,Brazil 1 - 0 Norway,Predicción del modelo,Brazil,Predicción: gana en tiempo reglamentario,0.7235610736733293
+92,Mexico vs England,Mexico 0 - 1 England,Predicción del modelo,England,Predicción: gana en tiempo reglamentario,0.5790407645651964
+93,Portugal vs Spain,Portugal 1 - 1 Spain,Predicción del modelo,Spain,Predicción: empate; clasifica por penales según mayor probabilidad,0.479331241256443
+94,United States vs Belgium,United States 0 - 1 Belgium,Predicción del modelo,Belgium,Predicción: gana en tiempo reglamentario,0.452510244416705
+95,Argentina vs Egypt,Argentina 2 - 0 Egypt,Predicción del modelo,Argentina,Predicción: gana en tiempo reglamentario,0.7145437884974657
+96,Switzerland vs Colombia,Switzerland 1 - 1 Colombia,Predicción del modelo,Switzerland,Predicción: empate; clasifica por penales según mayor probabilidad,0.46361889928460803

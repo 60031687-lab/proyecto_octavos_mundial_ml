@@ -1,0 +1,17 @@
+numero_partido,date,time,home_team,away_team,partido,status,result,marcador_real,ganador_real,criterio_real
+73,2026-06-28,14:00,South Africa,Canada,South Africa vs Canada,Played,0-1,South Africa 0 - 1 Canada,Canada,Resultado real: gana en tiempo reglamentario
+74,2026-06-29,12:00,Brazil,Japan,Brazil vs Japan,Played,2-1,Brazil 2 - 1 Japan,Brazil,Resultado real: gana en tiempo reglamentario
+75,2026-06-29,15:30,Germany,Paraguay,Germany vs Paraguay,Played,1-1 (pens 3-4),Germany 1 - 1 Paraguay,Paraguay,Resultado real: clasifica por penales
+76,2026-06-29,20:00,Netherlands,Morocco,Netherlands vs Morocco,Played,1-1 (pens 2-3),Netherlands 1 - 1 Morocco,Morocco,Resultado real: clasifica por penales
+77,2026-06-30,12:00,Côte d'Ivoire,Norway,Côte d'Ivoire vs Norway,Played,1-2,Côte d'Ivoire 1 - 2 Norway,Norway,Resultado real: gana en tiempo reglamentario
+78,2026-06-30,16:00,France,Sweden,France vs Sweden,Played,3-0,France 3 - 0 Sweden,France,Resultado real: gana en tiempo reglamentario
+79,2026-06-30,20:00,Mexico,Ecuador,Mexico vs Ecuador,Played,2-0,Mexico 2 - 0 Ecuador,Mexico,Resultado real: gana en tiempo reglamentario
+80,2026-07-01,11:00,England,Congo DR,England vs Congo DR,Played,2-1,England 2 - 1 Congo DR,England,Resultado real: gana en tiempo reglamentario
+81,2026-07-01,15:00,Belgium,Senegal,Belgium vs Senegal,Played,3-2,Belgium 3 - 2 Senegal,Belgium,Resultado real: gana en tiempo reglamentario
+82,2026-07-01,19:00,United States,Bosnia & Herzegovina,United States vs Bosnia & Herzegovina,Played,2-0,United States 2 - 0 Bosnia & Herzegovina,United States,Resultado real: gana en tiempo reglamentario
+83,2026-07-02,14:00,Spain,Austria,Spain vs Austria,Played,3-0,Spain 3 - 0 Austria,Spain,Resultado real: gana en tiempo reglamentario
+84,2026-07-02,18:00,Portugal,Croatia,Portugal vs Croatia,Played,2-1,Portugal 2 - 1 Croatia,Portugal,Resultado real: gana en tiempo reglamentario
+85,2026-07-02,22:00,Switzerland,Algeria,Switzerland vs Algeria,Played,2-0,Switzerland 2 - 0 Algeria,Switzerland,Resultado real: gana en tiempo reglamentario
+86,2026-07-03,13:00,Australia,Egypt,Australia vs Egypt,Played,1-1 (pens 2-4),Australia 1 - 1 Egypt,Egypt,Resultado real: clasifica por penales
+87,2026-07-03,17:00,Argentina,Cape Verde Islands,Argentina vs Cape Verde Islands,Played,3-2,Argentina 3 - 2 Cape Verde Islands,Argentina,Resultado real: gana en tiempo reglamentario
+88,2026-07-03,20:30,Colombia,Ghana,Colombia vs Ghana,Played,1-0,Colombia 1 - 0 Ghana,Colombia,Resultado real: gana en tiempo reglamentario
